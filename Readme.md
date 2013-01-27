@@ -1,11 +1,11 @@
 
-# proverb
+# Proverb
 
   An experimental reverb implementation for the Web Audio API.
 
 ## Installation
 
-    $ component install web-audio-components/proverb
+    $ component install nick-thompson/proverb
 
 ## Forewarning
 
