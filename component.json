@@ -1,0 +1,20 @@
+{
+  "name": "proverb",
+  "repo": "nick-thompson/proverb",
+  "description": "An experimental reverb implementation for the Web Audio API.",
+  "version": "0.0.1",
+  "author": "Nick Thompson <ncthom91@gmail.com>",
+  "keywords": [
+    "web-audio",
+    "reverb",
+    "effect"
+  ],
+  "dependencies": {
+    "web-audio-components/comb": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
